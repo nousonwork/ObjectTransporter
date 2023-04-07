@@ -20,7 +20,7 @@ public class Client {
 				"Sending the File to the Server");
 		// Call SendFile Method
 		sendFile(
-				"/Users/shankar/Downloads/Data.zip");
+				"D:/Data.zip");
 
 			dataInputStream.close();
 			dataInputStream.close();
